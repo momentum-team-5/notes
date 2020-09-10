@@ -1,6 +1,6 @@
 autoscale: true
 
-# [fit] CSS Basics
+# CSS Basics
 
 ---
 

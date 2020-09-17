@@ -264,6 +264,17 @@ for (let score of scores) {
 // sum => 343
 ```
 
+Here's the example we went over in class, logging each step so you can see what is happening:
+
+```js
+for (let score of scores){
+console.log("sum is at: ", sum)
+console.log("current score is: ", score)
+sum += score // the value of sum changes here at this line!
+console.log("Now that I've added the score to the sum I have ", sum)
+}
+```
+
 ---
 
 ## Reducing an array, example 2

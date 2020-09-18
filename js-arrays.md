@@ -1,6 +1,3 @@
-autoscale: true
-slidenumbers: true
-
 # JavaScript Arrays
 
 ---

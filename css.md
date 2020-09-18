@@ -1,5 +1,3 @@
-autoscale: true
-
 # CSS Basics
 
 ---

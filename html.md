@@ -1,5 +1,3 @@
-autoscale: true
-
 # Intro to HTML
 
 ## The structure of web pages

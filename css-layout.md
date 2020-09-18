@@ -1,5 +1,3 @@
-autoscale: true
-
 # Ready for more?
 
 ![](images/css-blinds.gif)

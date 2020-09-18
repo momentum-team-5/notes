@@ -1,5 +1,3 @@
-autoscale: true
-
 # Introduction to Programming with JavaScript
 
 ---

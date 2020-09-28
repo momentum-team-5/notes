@@ -1,10 +1,13 @@
 # Notes from class
 
-## Phase 1 Week 1
+## Phase 1
 
-- [command line](command-line.md)
-- [git](git.md)
-- [html](html.md)
-- [css](css.md)
-- [intro javascript](intro-js.md)
-- [javascript arrays and iteration](js-arrays.md)
+- [Command Line](command-line.md)
+- [Git](git.md)
+- [HTML](html.md)
+- [CSS](css.md)
+- [Intro Javascript](intro-js.md)
+- [Javascript arrays and iteration](js-arrays.md)
+- [JavaScript objects](js-objects.md)
+- [JavaScript and the DOM](js-and-the-dom.md)
+- [AJAX & HTTP](ajax-http.md)
